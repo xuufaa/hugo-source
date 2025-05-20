@@ -1,4 +1,4 @@
-baseURL = 'https://xuufaa.github.io/'
+baseURL = 'https://blog.208128.xyz/'
 languageCode = 'zh-cn'
 title = '我的 Hugo 博客'
 theme = 'PaperMod'
