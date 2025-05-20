@@ -1,0 +1,2 @@
+# 每天早上7点生成刑法·路遥笔记
+0 7 * * * /bin/bash /path/to/your/project/scripts/new_daily_note.sh 刑法 路遥 >> /path/to/your/project/log.txt 2>&1

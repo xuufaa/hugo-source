@@ -5,14 +5,57 @@ theme = 'PaperMod'
 
 [params]
   homeInfoParams = { Title = "欢迎来到我的博客 👋", Content = "这是我的 Hugo 博客。" }
-
-[menu]
-  [[menu.main]]
-    identifier = "about"
-    name = "关于"
-    url = "/about/"
-    weight = 10
+  defaultTheme = "auto"
 
 [outputs]
   home = ["HTML"]
   section = ["HTML", "JSON"]
+
+[menu]
+  [[menu.main]]
+    identifier = "刑法"
+    name = "刑法"
+    url = "/categories/刑法/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "民法"
+    name = "民法"
+    url = "/categories/民法/"
+    weight = 20
+
+  [[menu.main]]
+    identifier = "行政法"
+    name = "行政法"
+    url = "/categories/行政法/"
+    weight = 30
+
+  [[menu.main]]
+    identifier = "商经法"
+    name = "商经法"
+    url = "/categories/商经法/"
+    weight = 40
+
+  [[menu.main]]
+    identifier = "民商法"
+    name = "民商法"
+    url = "/categories/民商法/"
+    weight = 50
+
+  [[menu.main]]
+    identifier = "刑诉"
+    name = "刑诉"
+    url = "/categories/刑诉/"
+    weight = 60
+
+  [[menu.main]]
+    identifier = "理论法"
+    name = "理论法"
+    url = "/categories/理论法/"
+    weight = 70
+
+  [[menu.main]]
+    identifier = "三国法"
+    name = "三国法"
+    url = "/categories/三国法/"
+    weight = 80
