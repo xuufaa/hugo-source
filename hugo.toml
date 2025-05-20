@@ -1,0 +1,14 @@
+baseURL = 'https://208128.xyz/'
+languageCode = 'zh-cn'
+title = '我的 Hugo 博客'
+theme = 'PaperMod'
+
+[params]
+  homeInfoParams = { Title = "欢迎来到我的博客 👋", Content = "这是我的 Hugo 博客。" }
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "关于"
+    url = "/about/"
+    weight = 10
