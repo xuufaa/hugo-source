@@ -12,3 +12,7 @@ theme = 'PaperMod'
     name = "关于"
     url = "/about/"
     weight = 10
+
+[outputs]
+  home = ["HTML"]
+  section = ["HTML", "JSON"]
