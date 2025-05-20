@@ -1,0 +1,14 @@
+[
+  {
+    "title": "My First Post",
+    "summary": "你好，这是我用 Hugo 写的第一篇博客！\n",
+    "date": "2025-05-20",
+    "url": "https://blog.208128.xyz/posts/my-first-post/"
+  },
+  {
+    "title": "我的第一篇博文",
+    "summary": "这是我用 Hugo 写的第一篇博客文章！🎉\n我在学习 Hugo 和 Markdown，感觉还不错～\n",
+    "date": "2025-05-20",
+    "url": "https://blog.208128.xyz/posts/first-post/"
+  }
+]
